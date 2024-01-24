@@ -10,3 +10,4 @@ jobs:
     with:
       board: '["seeeduino_xiao"]'
       shield: '["hummingbird"]'
+      clipboard: '["Mac"]'
